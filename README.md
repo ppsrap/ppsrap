@@ -15,7 +15,7 @@ I'm eager to immerse myself in challenges that sharpen my skills in software dev
 ***
 
 ## 🛠 Skills Summary
-- Back-end: Java, Python, .NET, C#, API, Spring Boot, Microservices, Kafka, RabbitMQ
+- Back-end: Java, Python, API, Spring Boot, Microservices, Kafka, RabbitMQ
 - Front-end: React, HTML, JavaScript, TypeScript, Next.js, Vue
 - DevOps: AWS Stack, Akamai, CI/CD, Jenkins, Docker, Kubernetes, Github Action, Terraform, Maven, WildFly
 - Database: SQL, Contentful, SQL sever, Database Platforms, Elastic, Redis
@@ -25,6 +25,11 @@ I'm eager to immerse myself in challenges that sharpen my skills in software dev
 🔎 Currently Exploring: The mysteries of quantum computing and how to teach my AI assistant to make better memes.  
 💡 Open Source: A firm believer in the power of collaboration. Pull requests and issues are always welcome!  
 📚 Learning: How to balance a career in coding and a secret life as a superhero (still working on the cape).
+***
+
+## 🧰 web3 Skill Set
+- Solidity, Yul, EVM, Rust, viem, web3.py, Typescript, Next.js, Nest.js
+- Ethereum Development: Foundry, Hardhat, Ethers.js, web3-react, EthersScan
 ***
 
 ## 🚀 My Journey Through the Tech World
