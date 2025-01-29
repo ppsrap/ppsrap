@@ -43,7 +43,7 @@ Role: Senior Code Navigator
 Dates: 2021.04 - 2023.01
 Mission: I delved into the vast oceans of data, crafting search engines that could find a needle in a digital haystack.  
 
-🏦 HSBC - The Bank of Coding Excellenc  
+🏦Midea Group  
 Role: Software Engineer Extraordinaire  
 Dates: 2016.02 - 2021.03  
 Mission: I safeguarded financial fortresses with my code, ensuring transactions were as smooth as a well-oiled algorithm.  
